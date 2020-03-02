@@ -1,4 +1,4 @@
-# trivia-app
+# Trivia App
 
 Trivia App made in Vue.
 
@@ -11,7 +11,7 @@ After all 10 questions, the result of each question is rendered and the total sc
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Run Development Server
 
 ```
 npm run serve
